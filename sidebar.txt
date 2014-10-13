@@ -10,6 +10,10 @@
   * [[cnh:obs|Open Bible Stories (cnh)]]
 
 
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cnh|d43-cnh repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cnh/archive/master.zip|d43-cnh.zip]]
+
 **Recent Changes**
 {{changes>ns = cnh}}
 
